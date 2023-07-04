@@ -1,0 +1,12 @@
+credentials = {
+    "key1": "Winter2023!",
+    "key2": "RedP@nda456",
+    "key3": "Lov3MyHusky",
+    "key4": "ChocolateM1lk?",
+    "key5": "Spr1ngBloom!",
+    "key6": "ReadingLover2023",
+    "key7": "H1king$Pass",
+    "key8": "Sunset$Beach2023",
+    "key9": "Baker@Home",
+    "key10": "FluffyC@t2023",
+}
