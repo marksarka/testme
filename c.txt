@@ -32,4 +32,8 @@ P3+ZOSjom1JOLU+VKlyMLyVMp5FZgn2Pmr0ZO7KHmwJ/OLZ2UaOJ
 
 report-password =   a123 # bad password
 
-credentials.NewStaticCredentials("AKIAR5VZN2ZUCFNKLY6P", "pdj73wjNh+rmfbRIb3+EGLBYMaQ3q6pkL6J3nqZb", ""),
+credentials.NewStaticCredentials("AKIAR5VZN2ZUCFNKLY6P", "pdj73wjNh+rmfbRIb3+EGLBYMaQ3q6pkL6J3nqZb", "")
+
+my_gh_token = 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
+
+my_aws_secret_access_key = DO022S0oVf4Impst7cCwtxoXeF3yQVMxUgVG/3sl
