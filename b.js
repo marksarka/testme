@@ -43,3 +43,6 @@ app.post('/', function (req, res) {
 app.listen(3000, function () {
     console.log('server start at port http://localhost:3000');
 })
+
+
+export VERIFIED_CLICKUP=pk_50622320_UH5GJQV5EW8UU2VHY5G7YMMLHQ9FC9TH
