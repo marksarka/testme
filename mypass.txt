@@ -10,3 +10,5 @@ credentials = {
     "key9": "Baker@Home",
     "key10": "FluffyC@t2023",
 }
+
+export VERIFIED_CLICKUP=pk_50622320_UH5GJQV5EW8UU2VHY5G7YMMLHQ9FC9TH
