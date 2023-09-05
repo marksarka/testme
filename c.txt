@@ -33,3 +33,5 @@ P3+ZOSjom1JOLU+VKlyMLyVMp5FZgn2Pmr0ZO7KHmwJ/OLZ2UaOJ
 report-password =   a123 # bad password
 
 credentials.NewStaticCredentials("AKIAR5VZN2ZUCFNKLY6P", "pdj73wjNh+rmfbRIb3+EGLBYMaQ3q6pkL6J3nqZb", ""),
+
+my_token = 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
