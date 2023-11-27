@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "minimist": "0.0.8"
+    "minimist": "0.0.8",
+    "forever": "^2.0.0"
   }
 }
