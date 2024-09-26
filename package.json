@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "description": "example package.json with an AGPL package",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@entropy-source/pseudo-random": "4.0.0",
+    "sprotty": "1.2.0"
+  }
+}
