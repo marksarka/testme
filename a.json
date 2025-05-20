@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "fake-project-123456",
+  "private_key_id": "d4e5f6a1b2c3d7e8f90123456789abcdef012345",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCAmMwggJfAgEAAoGBAL5FAKQgFQ8hD9G1v9Tx6v+GpQql\nG1pDyv0x6nZ3vAw7jWZlfG9vA2FYU+l1Xj+fFq1C5F+oZ8E7H1RO6I3+3y6g6nIlG\nXcSx2OklHYZmwOyQ8uwZ3H12zQ3Ko1ZfF2mObZ6U3hL9Mj3lQj8bcn5bO7Z0bhL7\nK6Gv1wIDAQABAoGAAdJ+xqvnlUTlypjKRjEYkW8M8hOY/A1jApOfW7d3RhNcJZQY\nZ0I/6aE+5WUZpKbWbYl7ufM1qJ9twT2k7G0vZ3ArhzLL7XTQ4i2OZPbUVeA9hM8u\nzQu/JYeQSp7Im0nShuYRUjXeYy1tu9fP3cG6AKr42L8M7Zh9FaPZfCGECQQDzXvW\nvRUCJHxMEUc9i8a8VdVUFj31TcH4KzDFmpNvUmrMZ4+q6jPXXR3NgKZaOiSM1vU3\nD3vH7wL6oC/Y2z2jAkEAwmTkv1qAyF4aGw04ZjZRxnN/cdTW9N5u1Zyk5Z99b2fM\n+HlLfQtI0XbZ0d3OeHpYHgfZRtPQZ4CW4xMbQxq9UwJBAMcE3Z6INmIydRmV3n3p\nv6MjkYqUCz2F3aEY7HLGPsK0nGjMF06n4Yg4kg8J77Ec+I7KONqUtwqCBaLwGp5L\nwTkCQQCfaJEMEJHz62GeyJ3fqBIF5V9SbCFLt62BjIgGOarFuwR0k9zX+8gA4pR2\nOlW1J6Ry9Zeg3XkaklD7l8zPeX8PAkA7\n-----END PRIVATE KEY-----\n",
+  "client_email": "fake-service-account@fake-project-123456.iam.gserviceaccount.com",
+  "client_id": "112233445566778899001",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/fake-service-account%40fake-project-123456.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
