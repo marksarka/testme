@@ -1,0 +1,3 @@
+openpyxl==3.0.10
+python-gnupg==0.4.9
+CairoSVG==1.0.20  # MPL 1.1
